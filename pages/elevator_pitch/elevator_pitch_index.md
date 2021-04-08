@@ -1,6 +1,6 @@
 # Elevator Pitches
 
-![welcome_img3](../../img/geo_img3.jpg)
+![welcome_img4](../../img/geo_img4.jpg)
 
 
 | Presenter   | Title       | Link |
