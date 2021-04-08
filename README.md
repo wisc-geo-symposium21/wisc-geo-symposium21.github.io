@@ -1,6 +1,6 @@
 ## April 21 - 22, 2021
 
-![welcome_img](http://geoscience.wisc.edu/geoscience/wp-content/uploads/sites/2/2018/07/DSCF3973.jpg)
+![welcome_img](img/geo_img.jpg)
 
 Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph
 

@@ -1,6 +1,6 @@
 # Oral Presentations
 
-![welcome_img2](http://geoscience.wisc.edu/geoscience/wp-content/uploads/sites/2/2020/12/9B3714ED-45A7-4B4A-B95D-71BE392DB8B7-1-1600x500.jpeg)
+![welcome_img2](../../img/uw_geo2.jpeg)
 
 ## Schedule
 
@@ -31,6 +31,3 @@
 | Name Name 11  | Title is very very long long long so so so so so so long | 10:30 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name11)|
 | Name Name 12  | Title is very very long long long so so so so so so long | 10:45 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name12)|
 | Name Name 13  | Title is very very long long long so so so so so so long | 11:00 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name13)|
-
-
-Go back to [Home Page](https://wisc-geo-symposium21.github.io)
