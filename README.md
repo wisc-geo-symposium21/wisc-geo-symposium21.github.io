@@ -1,4 +1,4 @@
-##April 21 - 22, 2021
+## April 21 - 22, 2021
 
 ![welcome_img](http://geoscience.wisc.edu/geoscience/wp-content/uploads/sites/2/2018/07/DSCF3973.jpg)
 
