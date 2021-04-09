@@ -74,7 +74,7 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(247, 230, 230, 0.8);
     text-decoration: none;
     background-color: rgba(247, 230, 230, 0.2);
     border-color: rgba(247, 230, 230, 0.3);
@@ -327,6 +327,7 @@ a {
     th,
     td {
       padding: 0.5rem 1rem;
+      font-size: 0.7rem;
       border: 1px solid $table-border-color;
     }
     tr {
