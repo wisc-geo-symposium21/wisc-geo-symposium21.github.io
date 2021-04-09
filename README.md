@@ -6,7 +6,7 @@ Welcome paragraph Welcome paragraph Welcome paragraph Welcome paragraph Welcome 
 
 ### Presentations
 
-- **[Keynote Speak](https://wisc-geo-symposium21.github.io/pages/keynote) by Dr. Chris Zahasky**
 - **[Oral Presentations](https://wisc-geo-symposium21.github.io/pages/oral/oral_index)**
 - **[Poster Presentations](https://wisc-geo-symposium21.github.io/pages/poster/poster_index)**
 - **[3-Minute Elevator Pitches](https://wisc-geo-symposium21.github.io/pages/elevator_pitch/elevator_pitch_index)**
+- **[Keynote Talk](https://wisc-geo-symposium21.github.io/pages/keynote)** by Dr. Chris Zahasky
