@@ -310,6 +310,8 @@ a {
   table {
     display: block;
     width: 100%;
+    left: 0;
+    right: 0;
     overflow: auto;
     border-collapse:collapse;
     word-break: normal;
