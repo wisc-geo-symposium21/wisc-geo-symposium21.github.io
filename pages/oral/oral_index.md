@@ -8,26 +8,26 @@
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Name Name 1     | Title is very very long long long | 10:00 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name1)|
-| Name Name 2  | Title is very very long long long so so so so so so long | 10:15 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name2)|
-| Name Name 3  | Title is very very long long long so so so so so so long | 10:30 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name3)|
-| Name Name 4  | Title is very very long long long so so so so so so long | 10:45 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name4)|
+| Jeremy Patterson  | A Generalized Approach to Aquifer Characterization and Uncertainty Quantiï¬cation Through Oscillatory Flow Interference Testing | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/jpatterson)|
+| Ben Heath  | Fracturing and pore fluid distribution in the Marlborough region, New Zealand from body-wave tomography: Implications for regional understanding of the 2016 Kaikoura Earthquake | 10:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/bheath)|
+| Claudia I. Roig | Testing the detachment fault refrigeration hypothesis at high-spatial resolution by SIMS oxygen isotope analysis. | 10:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/croig)|
+| Youjuan Li  | New <sup>40</sup>Ar/<sup>39</sup>Ar and U-Pb age determination of magnetochron M0r from the Qingshan Group, Jiaolai Basin, eastern China | 10:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/yli)|
 
 #### April 21 Afternoon
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Name Name 5   | Title is very very long long long | 2:00 pm | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name5)|
-| Name Name 6  | Title is very very long long long so so so so so so long | 2:15 pm | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name6)|
-| Name Name 7  | Title is very very long long long so so so so so so long | 2:30 pm | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name7)|
-| Name Name 8  | Title is very very long long long so so so so so so long | 2:45 pm | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name8)|
+| Benjamin Bruck  | Tectonic and astronomical influences on climate and deposition revealed by a Bayesian age-depth model of the Early Eocene Green River Formation, Wyoming | 14:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/bbruck)|
+| Daniel Segessenman  | Environmental expression of the Shuram-Wonoka carbon isotope excursion in North America | 14:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/dsegessenman)|
+| Shan Ye  | Assessment of Dinosaur Diversity and Sediment Coverage in Cretaceous North America | 14:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/yeshan)|
+| Nicholas Sullivan | Early Miocene cyclostratigraphy in the Southern Ocean: A window into the history of the Antarctic Ice Sheet | 14:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/nsullivan)|
 
 #### April 22 Morning
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Name Name 9   | Title is very very long long long | 10:00 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name9)|
-| Name Name 10  | Title is very very long long long so so so so so so long | 10:15 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name10)|
-| Name Name 11  | Title is very very long long long so so so so so so long | 10:30 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name11)|
-| Name Name 12  | Title is very very long long long so so so so so so long | 10:45 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name12)|
-| Name Name 13  | Title is very very long long long so so so so so so long | 11:00 am | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/name13)|
+| Kai Hu   | Covariation of cross-divide differences in denudation rate and Ï‡: Implications for drainage basin reorganization in the Qilian Shan, northeast Tibet | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/khu)|
+| Shan Ye  | Climatological effects on surface exposure dating | 10:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/sye)|
+| Dougal Hansen  | Experimental insight into the entrainment and transport of subglacial debris | 10:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/dhansen)|
+| Andrew Jones  | Holocene glacier length variations along the American Cordilleras from paired <sup>14</sup>C-<sup>10</sup>Be measurements | 10:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/ajones)|
+| Nathan Stevens  | A Seven Decade History of Flow at Saskatchewan Glacier | 11:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/nstevens)|
