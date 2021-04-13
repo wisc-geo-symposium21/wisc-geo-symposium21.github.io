@@ -1,4 +1,4 @@
-# Assessment of Dinosaur Diversity and Sediment Coverage in Cretaceous North America
+# Climatological effects on surface exposure dating
 
 **Shan Ye**
 
