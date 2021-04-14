@@ -13,4 +13,4 @@
 
 **Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
 
-**Email**: [shan.ye@wisc.edu](shan.ye@wisc.edu)
+**Email**: [shan.ye@wisc.edu](mailto:shan.ye@wisc.edu)
