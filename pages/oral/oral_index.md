@@ -4,6 +4,8 @@
 
 ## Schedule
 
+Live stream of oral presentations on Zoom can be accessed [here](https://uwmadison.zoom.us/meeting#/test11111).
+
 #### April 21 Morning
 
 | Presenter   | Title       | Time  | Link |
