@@ -28,7 +28,7 @@ Live stream of oral presentations on Zoom can be accessed [here](https://uwmadis
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Kai Hu   | Covariation of cross-divide differences in denudation rate and Ï‡: Implications for drainage basin reorganization in the Qilian Shan, northeast Tibet | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/khu)|
+| Kai Hu   | Covariation of cross-divide differences in denudation rate and χ: Implications for drainage basin reorganization in the Qilian Shan, northeast Tibet | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/khu)|
 | Shan Ye  | Climatological effects on surface exposure dating | 10:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/sye)|
 | Dougal Hansen  | Experimental insight into the entrainment and transport of subglacial debris | 10:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/dhansen)|
 | Andrew Jones  | Holocene glacier length variations along the American Cordilleras from paired <sup>14</sup>C-<sup>10</sup>Be measurements | 10:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/ajones)|
