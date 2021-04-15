@@ -4,7 +4,7 @@
 
 ## Schedule
 
-Live stream of oral presentations on Zoom can be accessed [here](https://uwmadison.zoom.us/meeting#/test11111).
+Live stream of oral presentations on Zoom can be accessed [here](https://uwmadison.zoom.us/meeting#/test11111). All times are Central Daylight Time (CDT)，UTC -5.
 
 #### April 21 Morning
 
