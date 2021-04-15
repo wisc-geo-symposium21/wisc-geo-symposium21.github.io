@@ -9,7 +9,7 @@ We collected ~5 bedrock samples at each glacier abutting modern ice along a tran
 Modeled glacier extents for 4 tropical glaciers, 1 glacier in the Sierra-Nevada, CA, and 1 in Patagonia, CL are at their smallest extent of the Holocene, providing evidence that present-day warming may have already exceeded the warmest periods of the Holocene. Other study sites in the Northern and Southern hemispheres (30-60º) exhibit a transition from smaller to larger glaciers during the mid-Holocene, suggesting a late Holocene cooling trend that is in agreement with global proxy data, but contrasts climate model simulations.
 
 
-**Time**:  April 22nd (10:45)
+**Time**:  April 22nd (11:45)
 
 **Advisor**: Shaun Marcott
 

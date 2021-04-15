@@ -28,8 +28,14 @@ Live stream of oral presentations on Zoom can be accessed [here](https://uwmadis
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Kai Hu   | Covariation of cross-divide differences in denudation rate and χ: Implications for drainage basin reorganization in the Qilian Shan, northeast Tibet | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/khu)|
-| Shan Ye  | Climatological effects on surface exposure dating | 10:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/sye)|
-| Dougal Hansen  | Experimental insight into the entrainment and transport of subglacial debris | 10:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/dhansen)|
-| Andrew Jones  | Holocene glacier length variations along the American Cordilleras from paired <sup>14</sup>C-<sup>10</sup>Be measurements | 10:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/ajones)|
-| Nathan Stevens  | A Seven Decade History of Flow at Saskatchewan Glacier | 11:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/nstevens)|
+| Kai Hu   | Covariation of cross-divide differences in denudation rate and χ: Implications for drainage basin reorganization in the Qilian Shan, northeast Tibet | 11:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/khu)|
+| Shan Ye  | Climatological effects on surface exposure dating | 11:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/sye)|
+| Dougal Hansen  | Experimental insight into the entrainment and transport of subglacial debris | 11:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/dhansen)|
+| Andrew Jones  | Holocene glacier length variations along the American Cordilleras from paired <sup>14</sup>C-<sup>10</sup>Be measurements | 11:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/ajones)|
+| Nathan Stevens  | A Seven Decade History of Flow at Saskatchewan Glacier | 12:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/nstevens)|
+
+#### April 22 Afternoon: Keynote lecture
+
+| Presenter   | Title       | Time  | Link |
+| ----------- | ----------- |-------|------|
+|Dr. Chris Zahasky|Multiscale study of fluid, contaminant, and colloid transport processes in permeable media|12:30|[Keynote](https://wisc-geo-symposium21.github.io/pages/keynote)|
