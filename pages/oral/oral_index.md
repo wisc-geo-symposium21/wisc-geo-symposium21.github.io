@@ -10,7 +10,7 @@ Live stream of oral presentations on Zoom can be accessed [here](https://uwmadis
 
 | Presenter   | Title       | Time  | Link |
 | ----------- | ----------- |-------|------|
-| Jeremy Patterson  | A Generalized Approach to Aquifer Characterization and Uncertainty Quantiï¬cation Through Oscillatory Flow Interference Testing | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/jpatterson)|
+| Jeremy Patterson  | A Generalized Approach to Aquifer Characterization and Uncertainty Quantification Through Oscillatory Flow Interference Testing | 10:00 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/jpatterson)|
 | Ben Heath  | Fracturing and pore fluid distribution in the Marlborough region, New Zealand from body-wave tomography: Implications for regional understanding of the 2016 Kaikoura Earthquake | 10:15 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/bheath)|
 | Claudia I. Roig | Testing the detachment fault refrigeration hypothesis at high-spatial resolution by SIMS oxygen isotope analysis. | 10:30 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/croig)|
 | Youjuan Li  | New <sup>40</sup>Ar/<sup>39</sup>Ar and U-Pb age determination of magnetochron M0r from the Qingshan Group, Jiaolai Basin, eastern China | 10:45 | [Abstract](https://wisc-geo-symposium21.github.io/pages/oral/yli)|

@@ -4,8 +4,6 @@
 
 **Abstract**: Not posted
 
-
-
 **Time**:   April 21st (10:00)
 
 **Advisor**: Michael Cardiff
