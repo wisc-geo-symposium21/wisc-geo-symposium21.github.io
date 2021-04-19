@@ -9,4 +9,4 @@
 **Email**: [eparrish3@wisc.edu](mailto:eparrish3@wisc.edu)
 
 #### Video
-[![eparrish_thumb](../../img/eparrish_thumb.jpg)](../../videos/eparrish.mp4)
+[![eparrish_thumb](../../img/eparrish_thumb.jpg)](https://www.youtube.com/watch?v=MBF2tEjsVTg)

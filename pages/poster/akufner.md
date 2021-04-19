@@ -12,4 +12,4 @@
 **Email**: [akufner@wisc.edu](mailto:akufner@wisc.edu)
 
 #### Poster
-[![akufner_thumb](../../img/akufner_thumb.jpg)](../../docs/akufner.pdf)
+[![akufner_thumb](../../img/akufner_thumb.jpg)](https://drive.google.com/file/d/1r1SCz0vXXrQ1ARe6kSqF8qWdKbq8CM5p/view)
