@@ -9,6 +9,6 @@ We hope this will be a fun, interactive experience for you all, and an effective
 
 Special thanks to the 2021 Weeks Research Symposium Planning Committee: Stefanie Dodge, Lisa Theo, Lisa Haas, Shan Ye, Cameron Batchelor, Yihang Fang, Chelsea Volpano.
 
-[Booklet](docs/Booklet.pdf)
-
 ![flyer](img/flyer.png)
+
+You can also download the [Booklet](docs/Booklet.pdf).
