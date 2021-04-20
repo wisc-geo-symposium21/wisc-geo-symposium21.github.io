@@ -10,4 +10,4 @@
 **Email**: [avilla2@wisc.edu](mailto:avilla2@wisc.edu)
 
 #### Video
-[![avilla_thumb](../../img/avilla_thumb.jpg)](https://www.youtube.com/watch?v=75YvlILDqi8&t=26s&ab_channel=ALEXANDRAVILLA)
+[![avilla_thumb](../../img/avilla_thumb.jpg)](https://www.youtube.com/watch?v=75YvlILDqi8)
