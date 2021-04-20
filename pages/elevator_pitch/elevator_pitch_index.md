@@ -2,7 +2,7 @@
 
 ![welcome_img4](../../img/geo_img4.jpg)
 
-#### Lineup
+#### Line-up
 
 | Presenter   | Title       | Link |
 | ----------- | ----------- |------|
