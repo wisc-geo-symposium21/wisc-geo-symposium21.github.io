@@ -15,4 +15,7 @@
 **Email**: [zhuang296@wisc.edu](mailto:zhuang296@wisc.edu)
 
 #### Poster
+
+Click to see the raw file:
+
 [![zhuang_thumb](../../img/zhuang_thumb.jpg)](../../docs/zhuang.pdf)

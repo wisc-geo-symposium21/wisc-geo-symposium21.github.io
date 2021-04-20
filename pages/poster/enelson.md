@@ -15,4 +15,6 @@ This study focusses on exposed basement rocks near Sweet-Ola, Idaho, located sou
 **Email**: [emnelson8@wisc.edu](mailto:emnelson8@wisc.edu)
 
 #### Poster
+Click to see the raw file:
+
 [![enelson_thumb](../../img/enelson_thumb.jpg)](../../docs/enelson.pdf)

@@ -17,4 +17,6 @@ Recent  <sup>40</sup>Ar/<sup>39</sup>Ar  measurements in WiscAr Lab on pre-LGM l
 **Email**: [morenoyaeger@wisc.edu](mailto:morenoyaeger@wisc.edu)
 
 #### Poster
+
+Click to see the raw file:
 [![pmorenoyaeger_thumb](../../img/pmorenoyaeger_thumb.jpg)](../../docs/pmorenoyaeger.pdf)
