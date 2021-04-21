@@ -4,6 +4,6 @@
 
 **Time**: April 22 (12:30 - 13:30)
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [czahasky@wisc.edu](mailto:czahasky@wisc.edu)

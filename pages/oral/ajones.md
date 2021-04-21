@@ -15,6 +15,6 @@ Modeled glacier extents for 4 tropical glaciers, 1 glacier in the Sierra-Nevada,
 
 **Co-Authors**: Andrew L Gorin, Tori M Kennedy, Shaun A Marcott, Jeremy D Shakun, Brent M Goehring, Gordon R Bromley, Douglas H Clark, Andrew Hein, Vincent Jomelli, Emilio Mateo, Bryan Mark, Brian Menounos, Don Rodbell, Andrew Wickert.
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [agjones3@wisc.edu](mailto:agjones3@wisc.edu)

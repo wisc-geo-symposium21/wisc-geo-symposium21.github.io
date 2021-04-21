@@ -10,6 +10,6 @@
 
 **Co-Authors**: Donna Eberhart-Phillips, Federica Lanza, Clifford Thurber, Martha Savage, Tomomi Okada, Satoshi Matsumoto, Yoshihisa Iio, Stephen Bannister
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [baheath@wisc.edu](mailto:baheath@wisc.edu)

@@ -11,6 +11,6 @@
 
 **Co-Authors**: Chloe Bonamici
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [roig@wisc.edu](mailto:roig@wisc.edu)

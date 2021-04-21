@@ -10,7 +10,7 @@ This study focusses on exposed basement rocks near Sweet-Ola, Idaho, located sou
 
 **Advisor**: Basil Tikoff
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [emnelson8@wisc.edu](mailto:emnelson8@wisc.edu)
 

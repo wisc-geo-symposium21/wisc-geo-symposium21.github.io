@@ -3,7 +3,7 @@
 ![welcome_img3](../../img/geo_img3.jpg)
 
 #### Line-up
-The poster session goes live on Thursday (April 22<sup>nd</sup>) at 1:30 pm CDT on the [Zoom](https://uwmadison.zoom.us/meeting#/test11111).
+The poster session goes live on Thursday (April 22<sup>nd</sup>) at 1:30 pm CDT on the [Zoom](https://uwmadison.zoom.us/j/99393574894).
 
 | Presenter   | Title       |Time| Link |
 | ----------- | ----------- |------|-------|

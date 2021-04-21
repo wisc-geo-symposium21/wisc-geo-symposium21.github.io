@@ -8,6 +8,6 @@
 
 **Advisor**: Ken Ferrier
 
-**Stream**: [Zoom](https://uwmadison.zoom.us/meeting#/test11111)
+**Stream**: [Zoom](https://uwmadison.zoom.us/j/99393574894)
 
 **Email**: [kai.hu@wisc.edu](mailto:kai.hu@wisc.edu)
