@@ -15,4 +15,4 @@ One microcosm treatment showed a 5x greater rate of sulfate production (0.2 to 3
 **Email**: [ldhaas@wisc.edu](mailto:ldhaas@wisc.edu)
 
 #### Video
-[![lhaas_thumb](../../img/lhaas_thumb.jpg)](../../videos/lhaas.mp4)
+[![lhaas_thumb](../../img/lhaas_thumb.jpg)](https://www.youtube.com/watch?v=wfzoAtRmq3Y)
